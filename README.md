@@ -48,7 +48,7 @@ Please support this project by donating or purchasing Premium Status.
 Oxidate Premium includes priority support, priority in taking in suggestions that you provide, and the latest versions/updated releases before bot goes public. And much more privileges to come!
    
 ## Download
-You should download a release ready BHBot (for Windows and Linux) from RELEASES page:
+You can dind the download page in the link below.
 
 https://github.com/Oxidate/BHBot/releases
 
