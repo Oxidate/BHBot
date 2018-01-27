@@ -1,2 +1,0 @@
-# BHBot
-Oxidate's BHBot
