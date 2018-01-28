@@ -15,10 +15,42 @@ Oxidate Launcher is easy to use.
 Everything you need to know can be found within the Launcher.
 If there are further questions feel free to send me an email!
 
+## Features
+# Free Status Features
+
+Bot can handle all types of battles:
+Dungeons (zones 1-5)
+Raids (1-3)
+Trials
+Gauntlet
+PvP
+GvG
+Invasion
+
+Other Functions contain:
+Automatically Persuading Familiars
+Auto Consume Boosts
+(EXP/Item)
+
+# Regular/Premium Features
+
+Bot can handle all types of battles:
+Dungeons (zones 1-6)
+Raids (1-4)
+Trials
+Gauntlet
+PvP
+GvG
+Invasion
+
+Other Functions contain:
+Automatically Persuading Familiars
+Auto Consume Boosts
+(EXP/ItemFind/Gold/Speed)
+Hide Google Chrome Window
+And much more!
 
 ## Contact and Support
-
-
 # Contact Information: bhbot.helper@gmail.com
 If you encounter any bugs,or glitch please let me know by sending an email to the email above with a description explaining the situation and problems. If possible, a video of the bug happening will help a lot.
 If you have any suggestions, please feel free to email me as well with the email being named "Oxidate Suggestion". This is a public version of the bot and will also be updated frequently.
