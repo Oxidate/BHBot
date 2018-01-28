@@ -3,8 +3,10 @@ Oxidate's BHBot
 
 by: Oxidate (bhbot.helper@gmail.com)
 
+
 # WEBSITE
 https://sites.google.com/site/oxidatebhbot/
+
 
 # About Oxidate BHBot
 The bot runs on a separate window and is NOT macro based so you can enjoy watching movies along with doing other things while the bot is running.
@@ -15,9 +17,9 @@ Oxidate Launcher is easy to use.
 Everything you need to know can be found within the Launcher.
 If there are further questions feel free to send me an email!
 
+
 # Features
 ## Free Status Features
-
 Bot can handle all types of battles:
 Dungeons (zones 1-5)
 Raids (1-3)
@@ -32,8 +34,8 @@ Automatically Persuading Familiars
 Auto Consume Boosts
 (EXP/Item)
 
-## Regular/Premium Features
 
+## Regular/Premium Features
 Bot can handle all types of battles:
 Dungeons (zones 1-6)
 Raids (1-4)
@@ -50,6 +52,7 @@ Auto Consume Boosts
 Hide Google Chrome Window
 And much more!
 
+
 # Contact and Support
 #3 Contact Information: bhbot.helper@gmail.com
 If you encounter any bugs,or glitch please let me know by sending an email to the email above with a description explaining the situation and problems. If possible, a video of the bug happening will help a lot.
@@ -61,10 +64,12 @@ If you have any suggestions, please feel free to email me as well with the email
 Please support this project by donating or purchasing Premium Status.
 Oxidate Premium includes priority support, priority in taking in suggestions that you provide, and the latest versions/updated releases before bot goes public. And much more privileges to come!
    
+   
 ## Download
 You can find the download page in the link below.
 
 https://github.com/Oxidate/BHBot/releases
+
 
 ## Patch Notes
 -=== Patch v1.6 ===-
