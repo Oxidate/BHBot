@@ -19,7 +19,7 @@ If there are further questions feel free to send me an email!
 ## Contact and Support
 
 
-## Contact Information: bhbot.helper@gmail.com
+# Contact Information: bhbot.helper@gmail.com
 If you encounter any bugs,or glitch please let me know by sending an email to the email above with a description explaining the situation and problems. If possible, a video of the bug happening will help a lot.
 If you have any suggestions, please feel free to email me as well with the email being named "Oxidate Suggestion". This is a public version of the bot and will also be updated frequently.
 
