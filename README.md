@@ -1,14 +1,14 @@
-# BHBot
+## BHBot
 Oxidate's BHBot
 
 by: Oxidate (bhbot.helper@gmail.com)
 
 
-# WEBSITE
+## WEBSITE
 https://sites.google.com/site/oxidatebhbot/
 
 
-# About Oxidate BHBot
+## About Oxidate BHBot
 The bot runs on a separate window and is NOT macro based so you can enjoy watching movies along with doing other things while the bot is running.
 The launcher is GUI based.
 Oxidate Launcher is easy to navigate through.
@@ -20,45 +20,44 @@ If there are further questions feel free to send me an email!
 
 # Features
 ## Free Status Features
-Bot can handle all types of battles:
-Dungeons (zones 1-5)
-Raids (1-3)
-Trials
-Gauntlet
-PvP
-GvG
-Invasion
+1) Bot can handle all types of battles:
+2) Dungeons (zones 1-5)
+3) Raids (1-3)
+4) Trials
+5) Gauntlet
+6) PvP
+7) GvG
+8) Invasion
 
 Other Functions contain:
-Automatically Persuading Familiars
-Auto Consume Boosts
-(EXP/Item)
+1) Automatically Persuading Familiars
+2) Auto Consume Boosts
+      (EXP/Item)
 
 
 ## Regular/Premium Features
 Bot can handle all types of battles:
-Dungeons (zones 1-6)
-Raids (1-4)
-Trials
-Gauntlet
-PvP
-GvG
-Invasion
+1) Dungeons (zones 1-6)
+2) Raids (1-4)
+3) Trials
+4) Gauntlet
+5) PvP
+6) GvG
+7) Invasion
 
 Other Functions contain:
-Automatically Persuading Familiars
-Auto Consume Boosts
-(EXP/ItemFind/Gold/Speed)
-Hide Google Chrome Window
-And much more!
+1) Automatically Persuading Familiars
+2) Auto Consume Boosts
+   (EXP/ItemFind/Gold/Speed)
+3) Hide Google Chrome Window
+4) And much more to come!
 
 
-# Contact and Support
-#3 Contact Information: bhbot.helper@gmail.com
+## Contact and Support
+Contact Information: bhbot.helper@gmail.com
+
 If you encounter any bugs,or glitch please let me know by sending an email to the email above with a description explaining the situation and problems. If possible, a video of the bug happening will help a lot.
 If you have any suggestions, please feel free to email me as well with the email being named "Oxidate Suggestion". This is a public version of the bot and will also be updated frequently.
-
-
 
 ## Support Now!
 Please support this project by donating or purchasing Premium Status.
