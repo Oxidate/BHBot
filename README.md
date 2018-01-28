@@ -3,6 +3,8 @@ Oxidate's BHBot
 
 by: Oxidate (bhbot.helper@gmail.com)
 
+## WEBSITE
+https://sites.google.com/site/oxidatebhbot/
 
 ## Features
 
