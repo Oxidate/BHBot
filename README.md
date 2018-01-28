@@ -7,6 +7,9 @@ by: Oxidate (bhbot.helper@gmail.com)
 ## WEBSITE
 https://sites.google.com/site/oxidatebhbot/
 
+## Oxidate's BHBot - Tutorial
+https://www.youtube.com/watch?v=UIqg98Rp5ZY
+
 
 ## About Oxidate BHBot
 The bot runs on a separate window and is NOT macro based so you can enjoy watching movies along with doing other things while the bot is running.
