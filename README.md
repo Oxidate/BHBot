@@ -6,25 +6,7 @@ by: Oxidate (bhbot.helper@gmail.com)
 ## WEBSITE
 https://sites.google.com/site/oxidatebhbot/
 
-## Features
-
-## Bot can handle all types of battles:
-* Dungeons (zones 1-6)
-* Raids (1-4)
-* Trials
-* Gauntlet
-* PvP
-* GvG
-* Invasion
-
-## Other Functions contain:
-* Automatically Persuading Familiars
-* Auto Consume Boosts
-(EXP/ItemFind/Gold/Speed)
-* Hide Google Chrome Window
-* And much more!
-
-
+## About Oxidate BHBot
 The bot runs on a separate window and is NOT macro based so you can enjoy watching movies along with doing other things while the bot is running.
 The launcher is GUI based.
 Oxidate Launcher is easy to navigate through.
@@ -38,9 +20,7 @@ If there are further questions feel free to send me an email!
 
 
 ## Contact Information: bhbot.helper@gmail.com
-
 If you encounter any bugs,or glitch please let me know by sending an email to the email above with a description explaining the situation and problems. If possible, a video of the bug happening will help a lot.
-
 If you have any suggestions, please feel free to email me as well with the email being named "Oxidate Suggestion". This is a public version of the bot and will also be updated frequently.
 
 
@@ -55,7 +35,6 @@ You can find the download page in the link below.
 https://github.com/Oxidate/BHBot/releases
 
 ## Patch Notes
-
 -=== Patch v1.6 ===-
 - Updated source code entirely.
 - Created Oxidate Launcher.
