@@ -22,7 +22,7 @@ If there are further questions feel free to send me an email!
 
 
 # Features
-## Free Status Features
+## Free Status Features (Discontinued)
 1) Bot can handle all types of battles:
 2) Dungeons (zones 1-5)
 3) Raids (1-3)
@@ -37,6 +37,23 @@ Other Functions contain:
 2) Auto Consume Boosts
       (EXP/Item)
 
+
+## Premium Features
+Bot can handle all types of battles:
+1) Dungeons (zones 1-7)
+2) Raids (1-5)
+3) Trials
+4) Gauntlet
+5) PvP
+6) GvG
+7) Invasion
+
+Other Functions contain:
+1) Automatically Persuading Familiars
+2) Auto Consume Boosts
+   (EXP/ItemFind/Gold/Speed)
+3) Hide Google Chrome Window
+4) And much more to come!
 
 ## Regular/Premium Features
 Bot can handle all types of battles:
@@ -78,6 +95,8 @@ https://github.com/Oxidate/BHBot/releases
 - Updated source code entirely.
 - Created Oxidate Launcher.
 - Official Release.
+- Added Zone 7.
+- Added Raid 5.
 
 -=== Patch v1.5 ===-
 - Updated source code (Changed entire source for easier future updates).
