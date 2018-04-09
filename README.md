@@ -37,24 +37,6 @@ Other Functions contain:
 2) Auto Consume Boosts
       (EXP/Item)
 
-
-## Premium Features
-Bot can handle all types of battles:
-1) Dungeons (zones 1-7)
-2) Raids (1-5)
-3) Trials
-4) Gauntlet
-5) PvP
-6) GvG
-7) Invasion
-
-Other Functions contain:
-1) Automatically Persuading Familiars
-2) Auto Consume Boosts
-   (EXP/ItemFind/Gold/Speed)
-3) Hide Google Chrome Window
-4) And much more to come!
-
 ## Regular/Premium Features
 Bot can handle all types of battles:
 1) Dungeons (zones 1-6)
@@ -72,6 +54,22 @@ Other Functions contain:
 3) Hide Google Chrome Window
 4) And much more to come!
 
+## Premium Features
+Bot can handle all types of battles:
+1) Dungeons (zones 1-7)
+2) Raids (1-5)
+3) Trials
+4) Gauntlet
+5) PvP
+6) GvG
+7) Invasion
+
+Other Functions contain:
+1) Automatically Persuading Familiars
+2) Auto Consume Boosts
+   (EXP/ItemFind/Gold/Speed)
+3) Hide Google Chrome Window
+4) And much more to come!
 
 ## Contact and Support
 Contact Information: bhbot.helper@gmail.com
