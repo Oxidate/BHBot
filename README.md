@@ -37,7 +37,7 @@ Other Functions contain:
 2) Auto Consume Boosts
       (EXP/Item)
 
-## Regular/Premium Features
+## Regular Features
 Bot can handle all types of battles:
 1) Dungeons (zones 1-6)
 2) Raids (1-4)
@@ -46,6 +46,7 @@ Bot can handle all types of battles:
 5) PvP
 6) GvG
 7) Invasion
+
 
 Other Functions contain:
 1) Automatically Persuading Familiars
@@ -63,6 +64,8 @@ Bot can handle all types of battles:
 5) PvP
 6) GvG
 7) Invasion
+8) Fishing
+9) Guild Expedition
 
 Other Functions contain:
 1) Automatically Persuading Familiars
@@ -89,6 +92,14 @@ https://github.com/Oxidate/BHBot/releases
 
 
 ## Patch Notes
+-=== Patch v1.8 ===-
+- Added Fishing Function.
+- Added Guild Expedition Function.
+
+-=== Patch v1.7 ===-
+- Fixed Minor Bugs.
+- Fixed Major Bugs.
+
 -=== Patch v1.6 ===-
 - Updated source code entirely.
 - Created Oxidate Launcher.
