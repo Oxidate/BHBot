@@ -37,16 +37,17 @@ Other Functions contain:
 2) Auto Consume Boosts
       (EXP/Item)
 
-## Regular Features
+## Regular Features (v1.8)
 Bot can handle all types of battles:
-1) Dungeons (zones 1-6)
-2) Raids (1-4)
+1) Dungeons (zones 1-7)
+2) Raids (1-5)
 3) Trials
 4) Gauntlet
 5) PvP
 6) GvG
 7) Invasion
-
+8) Fishing
+9) Guild Expedition
 
 Other Functions contain:
 1) Automatically Persuading Familiars
@@ -55,10 +56,10 @@ Other Functions contain:
 3) Hide Google Chrome Window
 4) And much more to come!
 
-## Premium Features
+## Premium Features (v1.9)
 Bot can handle all types of battles:
-1) Dungeons (zones 1-7)
-2) Raids (1-5)
+1) Dungeons (zones 1-8)
+2) Raids (1-6)
 3) Trials
 4) Gauntlet
 5) PvP
@@ -92,6 +93,10 @@ https://github.com/Oxidate/BHBot/releases
 
 
 ## Patch Notes
+-=== Patch v1.9 ===-
+- Added Zone 8.
+- Added Raid 6.
+
 -=== Patch v1.8 ===-
 - Added Fishing Function.
 - Added Guild Expedition Function.
